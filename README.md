@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thormster-renard
-- 👀 I’m interested in administration system
+- 👀 I’m interested in system administration
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : thormster.renard _at_ outlook_fr
 
